@@ -1,0 +1,11 @@
+/home/axelofwar/Near_ws/Challenge_2_NFT_+_Frontend/contract/target/debug/deps/getrandom-17e259cc072f6edf.rmeta: /home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/lib.rs /home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error.rs /home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util.rs /home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error_impls.rs /home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util_libc.rs /home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/use_file.rs /home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/linux_android.rs
+
+/home/axelofwar/Near_ws/Challenge_2_NFT_+_Frontend/contract/target/debug/deps/getrandom-17e259cc072f6edf.d: /home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/lib.rs /home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error.rs /home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util.rs /home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error_impls.rs /home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util_libc.rs /home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/use_file.rs /home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/linux_android.rs
+
+/home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/lib.rs:
+/home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error.rs:
+/home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util.rs:
+/home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/error_impls.rs:
+/home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/util_libc.rs:
+/home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/use_file.rs:
+/home/axelofwar/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.1.16/src/linux_android.rs:
